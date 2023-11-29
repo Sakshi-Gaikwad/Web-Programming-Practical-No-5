@@ -1,0 +1,28 @@
+input{
+    color:black;
+    background-color:antiquewhite;
+}
+input.hover{
+    color: cadetblue;
+}
+#ss{
+border: 5px solid;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  bottom: 25%;
+  right: 25%;
+  padding: 20px;
+  background-color: aquamarine;
+}
+input[type="button"] {
+    margin-right: 15px; 
+}
+body
+{
+    background-image: url(5.jpg);
+    background-size:cover ;
+}
+h1{color:chartreuse;
+margin-left: 500px;
+margin-top: 60px;}
